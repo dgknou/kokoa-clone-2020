@@ -1,0 +1,9 @@
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.status-bar__column i:nth-child(2) {
+  margin: 0 4px;
+}
